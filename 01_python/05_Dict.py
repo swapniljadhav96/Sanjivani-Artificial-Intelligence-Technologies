@@ -3,7 +3,7 @@
 Created on  April 5 00:08:59 2023
 
 
-@author: suraj
+@author: Dell
 """
 
 # **Dictionaries**
