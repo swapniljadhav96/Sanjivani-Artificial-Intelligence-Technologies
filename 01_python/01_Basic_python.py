@@ -2,7 +2,7 @@
 """
 Created on Mar 31 16:02:17 2023
 
-@author: suraj
+@author: Dell
 """
 
 '''1. Download the Anaconda Installer:
