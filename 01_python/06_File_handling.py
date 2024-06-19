@@ -2,7 +2,7 @@
 """
 Created on April 6 10 00:24:18 2023
 
-@author: suraj
+@author: Dell
 """
 
 #for opening the file first we need to check the working dirtectory
